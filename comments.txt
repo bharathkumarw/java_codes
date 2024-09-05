@@ -1,0 +1,7 @@
+comments:
+comment is declared as <%--comment--%>
+-> used to provide descriptive information or hide code from jsp container.
+expression:
+-> the syntax is   <%=expression%>
+-> the code placed within expression tag is written to the output stream of the response. so you need not to write out.println()to write data
+   it is used mainly to print the values of variable or methon.
